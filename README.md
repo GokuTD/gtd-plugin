@@ -91,6 +91,13 @@ No subscription. No recurring charges. Reinstall and Premium restores from your 
 
 The plugin works with Emby alone; everything else is opt-in via the Settings panel.
 
+## Documentation
+
+The plugin docs live in the [GTD Launcher wiki](https://github.com/GokuTD/gtd-launcher/tree/main/docs) — same FAQ and troubleshooting cover both apps. The plugin-specific sections are:
+
+- [FAQ — Plugin & integrations](https://github.com/GokuTD/gtd-launcher/blob/main/docs/FAQ.md#plugin--integrations)
+- [Troubleshooting — The plugin (Emby integration)](https://github.com/GokuTD/gtd-launcher/blob/main/docs/Troubleshooting.md#the-plugin-emby-integration)
+
 ---
 
 ## Install
