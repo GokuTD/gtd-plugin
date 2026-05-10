@@ -1,12 +1,54 @@
+<p align="center">
+  <img src=".assets/feature.png" alt="GTD Plugin for Emby" width="100%">
+</p>
+
 # GTD Plugin for Emby
 
 Extends [GTD Launcher](https://github.com/GokuTD/gtd-launcher) with everything that connects it to your Emby server: dynamic wallpapers, an ambient 4K HDR screensaver, native Android TV channels populated from your library, live football overlays, and a built-in Oppo UDP-203 / 205 remote. **Ad-free. No telemetry. No account.**
 
-[![Available on Google Play](https://img.shields.io/badge/Google_Play-coming_soon-orange.svg)](#)
-[![Privacy Policy](https://img.shields.io/badge/Privacy-Policy-blue.svg)](https://gokutd.github.io/gtd-policy/)
-[![Premium](https://img.shields.io/badge/Premium-€7_one--time-gold.svg)](#premium-features)
+<p align="center">
+  <a href="#"><img alt="Google Play" src="https://img.shields.io/badge/Google_Play-coming_soon-orange.svg"></a>
+  <a href="https://gokutd.github.io/gtd-policy/"><img alt="Privacy Policy" src="https://img.shields.io/badge/Privacy-Policy-blue.svg"></a>
+  <a href="#premium-features"><img alt="Premium" src="https://img.shields.io/badge/Premium-€7_one--time-gold.svg"></a>
+  <a href="https://github.com/GokuTD/gtd-plugin/releases"><img alt="Latest release" src="https://img.shields.io/github/v/release/GokuTD/gtd-plugin?include_prereleases&label=APK"></a>
+</p>
 
 > Built by **GTD TV Studio**. Requires [GTD Launcher](https://github.com/GokuTD/gtd-launcher).
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="screenshots/01_overview.png" alt="Plugin overview"></td>
+    <td><img src="screenshots/02_server_detail.png" alt="Emby connection"></td>
+    <td><img src="screenshots/03_themes.png" alt="Themes editor"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Plugin overview</sub></td>
+    <td align="center"><sub>Emby connection</sub></td>
+    <td align="center"><sub>Live theme editor + preview</sub></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/04_screensaver.png" alt="Screensaver settings"></td>
+    <td><img src="screenshots/05_football.png" alt="Football settings"></td>
+    <td><img src="screenshots/06_oppo.png" alt="Oppo remote mapping"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>4K HDR ambient screensaver</sub></td>
+    <td align="center"><sub>Football overlays</sub></td>
+    <td align="center"><sub>Oppo player remote</sub></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/07_gradient_editor.png" alt="Gradient editor"></td>
+    <td><img src="screenshots/08_premium.png" alt="Premium menu"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>4-corner gradient editor</sub></td>
+    <td align="center"><sub>Premium upgrade</sub></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
@@ -35,9 +77,6 @@ No subscription. No recurring charges. Reinstall and Premium restores from your 
 
 ---
 
-## Screenshots
-
-(Coming soon — 8 screenshots available in the [`screenshots/`](./screenshots) folder.)
 
 ## What you'll need
 
