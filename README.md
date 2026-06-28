@@ -20,32 +20,32 @@ Extends [GTD Launcher](https://github.com/GokuTD/gtd-launcher) with everything t
 <table>
   <tr>
     <td><img src="screenshots/01_overview.png" alt="Plugin overview"></td>
-    <td><img src="screenshots/02_server_detail.png" alt="Emby connection"></td>
-    <td><img src="screenshots/03_themes.png" alt="Themes editor"></td>
+    <td><img src="screenshots/02_editor.png" alt="Theme editor"></td>
+    <td><img src="screenshots/03_wallpaper.png" alt="Animated GL wallpaper"></td>
   </tr>
   <tr>
     <td align="center"><sub>Plugin overview</sub></td>
-    <td align="center"><sub>Emby connection</sub></td>
     <td align="center"><sub>Live theme editor + preview</sub></td>
+    <td align="center"><sub>Animated GL wallpapers</sub></td>
   </tr>
   <tr>
-    <td><img src="screenshots/04_screensaver.png" alt="Screensaver settings"></td>
-    <td><img src="screenshots/05_football.png" alt="Football settings"></td>
-    <td><img src="screenshots/06_oppo.png" alt="Oppo remote mapping"></td>
+    <td><img src="screenshots/04_server.png" alt="Emby connection"></td>
+    <td><img src="screenshots/05_screensaver.png" alt="Screensaver"></td>
+    <td><img src="screenshots/06_football.png" alt="Football"></td>
   </tr>
   <tr>
+    <td align="center"><sub>Emby connection + TMDB</sub></td>
     <td align="center"><sub>4K HDR ambient screensaver</sub></td>
     <td align="center"><sub>Football overlays</sub></td>
-    <td align="center"><sub>Oppo player remote</sub></td>
   </tr>
   <tr>
-    <td><img src="screenshots/07_gradient_editor.png" alt="Gradient editor"></td>
-    <td><img src="screenshots/08_premium.png" alt="Premium menu"></td>
+    <td><img src="screenshots/07_oppo.png" alt="Oppo remote"></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
-    <td align="center"><sub>4-corner gradient editor</sub></td>
-    <td align="center"><sub>Premium upgrade</sub></td>
+    <td align="center"><sub>Oppo player remote</sub></td>
+    <td></td>
     <td></td>
   </tr>
 </table>
