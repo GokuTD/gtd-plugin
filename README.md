@@ -118,7 +118,7 @@ The sideloaded APK runs in **free mode** until you purchase Premium via Google P
 
 ### Mobile companion
 
-For easier setup (Emby login, API keys, IP addresses) install **GTD Setup** on your phone — paired by QR code from the launcher's Setup wizard. Available from the [GTD Launcher releases](https://github.com/GokuTD/gtd-launcher/releases).
+For easier setup (Emby login, API keys, IP addresses) install **GTD Setup** on your phone — paired by QR code from the launcher's Setup wizard. Free, no IAP — coming soon to Google Play.
 
 ---
 
