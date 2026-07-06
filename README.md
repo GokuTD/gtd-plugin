@@ -59,7 +59,7 @@ Extends [GTD Launcher](https://github.com/GokuTD/gtd-launcher) with everything t
 - **Ambient 4K HDR screensaver** — cinematic nature footage + your own Emby backdrops
 - **Native Android TV channels**: Continue Watching, Latest Movies, Latest Shows, Live TV with EPG
 - **Live TV with PiP** — Picture-in-Picture support from the home screen
-- **Football match overlays** — live scores, goal notifications, upcoming match cards
+- **Football match overlays** — live scores and upcoming match cards; follow your favourite teams or whole competitions (World Cup, LaLiga, Champions League…)
 - **TMDB integration** — richer card art (your own free API key)
 - **Oppo UDP-203 / 205 remote control** — TCP / HTTP / NFS, works alongside the original Oppo remote
 - **Samsung soundbar HDMI input switching** — direct LAN, no internet needed
